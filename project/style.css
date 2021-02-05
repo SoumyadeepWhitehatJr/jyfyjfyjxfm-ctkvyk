@@ -1,0 +1,78 @@
+.logo{
+
+display:flex;
+justify-content:left;
+
+}
+.lol{
+
+display:flex
+
+
+}
+.menu_bar{
+display:flex;
+
+background-color: black;
+padding-top: 50px;
+padding-bottom: 50px;
+
+justify-content: space-evenly;
+
+}
+.bar{
+
+display:flex;
+font-size:25px;
+color: snow;
+justify-content: space-evenly;
+
+}
+
+  a{
+color:snow;
+
+  } 
+  .bar:hover{
+
+background-color: grey;
+
+  }
+  .padding{
+display:flex;
+justify-content: space-evenly;
+    padding-top: 150px;
+    
+
+  }
+  .jkl{
+
+font-size: 40px;
+text-align: center;
+
+  }
+  
+  .drop:hover .content {
+    display: block;
+    
+  }
+
+.p{
+    font-size: 40;
+}
+  
+  .content{
+
+    display: none;
+    
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 10px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 20px;
+    margin-left:50px;
+    z-index: 1;
+  }
+  
+  
+  
